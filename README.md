@@ -16,8 +16,8 @@ calculate Mean square error,data prediction and r2.
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: 
-RegisterNumber:  
+Developed by: S Sesha Raghavan
+RegisterNumber:  212224040302
 */
 # Import libraries
 
